@@ -9,6 +9,7 @@ Features:
 - Confusion Matrix: To provide insights into the true positive, true negative, false positive, and false negative predictions.
 
 Output:
+<pre>
 Accuracy for k = 5  :  89.28067700987306
 Accuracy for k = 10 :  88.15232722143864
 Accuracy for k = 50 :  87.58815232722144
@@ -17,3 +18,4 @@ Confusion Matrix:
 1       533     17      1
 2       43      54      2
 3       4       9       46
+</pre>
