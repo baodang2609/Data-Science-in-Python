@@ -7,3 +7,13 @@ Features:
 - Model Training: Multiple KNN models are trained with different values of k (i.e., 5, 10, and 50).
 - Performance Evaluation: Evaluate on the test set by calculating the accuracy.
 - Confusion Matrix: To provide insights into the true positive, true negative, false positive, and false negative predictions.
+
+Output:
+Accuracy for k = 5  :  89.28067700987306
+Accuracy for k = 10 :  88.15232722143864
+Accuracy for k = 50 :  87.58815232722144
+Confusion Matrix:
+        1       2       3
+1       533     17      1
+2       43      54      2
+3       4       9       46
